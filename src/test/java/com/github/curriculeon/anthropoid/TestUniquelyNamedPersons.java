@@ -45,8 +45,8 @@ public class TestUniquelyNamedPersons {
 
     @Test
     public void testGetFirstNUniquelyNamedPeople() {
-        // : Given
-        Integer valueOfN = 4;
+        // : Given TODO
+        Integer valueOfN = 0;
 
         // when
         List<String> actual = warehouse
